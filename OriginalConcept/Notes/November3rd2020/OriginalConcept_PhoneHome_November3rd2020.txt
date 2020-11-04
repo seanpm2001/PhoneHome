@@ -1,0 +1,8 @@
+New project
+PhoneHome - The open source phone call tool
+Built-in cellular phone call
+Built-in texting
+Built-in voicemail
+Built-in robocall/spam call blocking
+Blocks all unknown numbers by default
+Easy data export and backup
